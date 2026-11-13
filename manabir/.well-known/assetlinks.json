@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mrmstfa.manabir",
+    "sha256_cert_fingerprints": ["E3:50:4B:21:78:14:11:8F:5B:D0:85:27:04:45:5C:2C:35:C6:2E:EF:AC:40:23:12:37:B3:47:CB:51:45:EB:C4"]
+  }
+}]

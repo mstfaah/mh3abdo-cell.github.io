@@ -1,0 +1,1456 @@
+{
+ "schemaVersion": 1,
+ "updated": "2026-11-13",
+ "attribution": {
+  "name": "mp3quran.net",
+  "url": "https://www.mp3quran.net/",
+  "text": "التلاوات وبيانات السور مقدّمة من موقع mp3quran.net عبر واجهته البرمجية العامة."
+ },
+ "reciters": [
+  {
+   "id": "noreen-siddiq",
+   "name": "نورين محمد صديق",
+   "order": 1,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "available",
+   "nameEn": "Noreen Mohammad Siddiq",
+   "source": {
+    "provider": "mp3quran.net",
+    "reciterId": 138,
+    "nameAtSource": "نورين محمد صديق",
+    "url": "https://www.mp3quran.net/api/v3/reciters?language=ar&reciter=138",
+    "matchNote": "اسم مطابق في mp3quran.net",
+    "checked": "2026-11-13"
+   },
+   "moshaf": [
+    {
+     "id": 138,
+     "name": "الدوري عن أبي عمرو - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/noreen-siddiq/r1/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "alzain-ahmad",
+   "name": "الزين محمد أحمد",
+   "order": 2,
+   "bio": "",
+   "bioSource": "",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D8%A7%D9%84%D8%B2%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF.png/330px-%D8%A7%D9%84%D8%B2%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF.png",
+    "author": "Hammam haom",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B2%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF.png"
+   },
+   "status": "available",
+   "nameEn": "Alzain Mohammad Ahmad",
+   "source": {
+    "provider": "mp3quran.net",
+    "reciterId": 13,
+    "nameAtSource": "الزين محمد أحمد",
+    "url": "https://www.mp3quran.net/api/v3/reciters?language=ar&reciter=13",
+    "matchNote": "اسم مطابق في mp3quran.net",
+    "checked": "2026-11-13"
+   },
+   "moshaf": [
+    {
+     "id": 13,
+     "name": "حفص عن عاصم - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/zain-ahmad/r1/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "alfateh-alzubair",
+   "name": "الفاتح محمد الزبير",
+   "order": 3,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "available",
+   "nameEn": "Alfateh Alzubair",
+   "source": {
+    "provider": "mp3quran.net",
+    "reciterId": 211,
+    "nameAtSource": "الفاتح محمد الزبير",
+    "url": "https://www.mp3quran.net/api/v3/reciters?language=ar&reciter=211",
+    "matchNote": "اسم مطابق في mp3quran.net",
+    "checked": "2026-11-13"
+   },
+   "moshaf": [
+    {
+     "id": 211,
+     "name": "الدوري عن أبي عمرو - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/fateh-zubair/r1/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "mohammad-abdulkarim",
+   "name": "محمد عبد الكريم",
+   "order": 4,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "available",
+   "nameEn": "Mohammad Abdullkarem",
+   "source": {
+    "provider": "mp3quran.net",
+    "reciterId": 115,
+    "nameAtSource": "محمد عبدالكريم",
+    "url": "https://www.mp3quran.net/api/v3/reciters?language=ar&reciter=115",
+    "matchNote": "مطابقة بالاسم: \"محمد عبدالكريم\" في mp3quran.net",
+    "checked": "2026-11-13"
+   },
+   "moshaf": [
+    {
+     "id": 210,
+     "name": "ورش عن نافع من طريق أبي بكر الأصبهاني - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/muhammad-abdulkareem/r2/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    },
+    {
+     "id": 115,
+     "name": "حفص عن عاصم - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/muhammad-abdulkareem/r1/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "saleh-ahmad-saleh",
+   "name": "صالح أحمد صالح",
+   "order": 5,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "1yOEgHZpLaY",
+     "title": "من سورة الفتح إلى سورة الواقعة • رواية الدوري",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 2905
+    },
+    {
+     "videoId": "bN7rkFNfT3g",
+     "title": "سورة الفرقان • تراويح",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 723
+    },
+    {
+     "videoId": "ttOIDO8j_Qw",
+     "title": "من سورة ق",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 146
+    },
+    {
+     "videoId": "A8CY9rZPLIQ",
+     "title": "سورة لقمان • تراويح",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 466
+    },
+    {
+     "videoId": "QzYkiZ_cfvc",
+     "title": "سورة الزمر كاملة • تراويح",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 893
+    },
+    {
+     "videoId": "k1Torlqlr0c",
+     "title": "دعاء ختم القرآن",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 1515
+    },
+    {
+     "videoId": "2wLz-2bPn50",
+     "title": "سورة البقرة • رواية الدوري",
+     "channel": "الشيخ صالح احمد صالح المصحف المرتل رواية الدوري عن ابي عمرو",
+     "channelUrl": "https://www.youtube.com/@%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D8%B5%D8%A7%D9%84%D8%AD%D8%A7%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%D8%B1",
+     "duration": 6910
+    },
+    {
+     "videoId": "2OKYJciJMpk",
+     "title": "سورة الكهف • تراويح • رواية الدوري",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 554
+    },
+    {
+     "videoId": "rSS5KPsS7i4",
+     "title": "الجزء الثلاثين",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 263
+    },
+    {
+     "videoId": "siECZl2Jh1c",
+     "title": "صلاة التراويح • 20 رمضان",
+     "channel": "Sudania 24 TV",
+     "channelUrl": "https://www.youtube.com/@Sudania24TV",
+     "duration": 3874
+    },
+    {
+     "videoId": "90E-iB382zY",
+     "title": "صلاة التراويح • 23 رمضان",
+     "channel": "Sudania 24 TV",
+     "channelUrl": "https://www.youtube.com/@Sudania24TV",
+     "duration": 4550
+    },
+    {
+     "videoId": "Jt4g8pnYrTk",
+     "title": "أواخر سورة البقرة وآيات من آل عمران • تراويح",
+     "channel": "قناة القراء السودانيين",
+     "channelUrl": "https://www.youtube.com/@%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+     "duration": 2251
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "ahmad-mohammad-taher",
+   "name": "أحمد محمد طاهر",
+   "order": 6,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "eMX_Q57zX1U",
+     "title": "سورة البقرة كاملة",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 8382
+    },
+    {
+     "videoId": "7V8snyiSewY",
+     "title": "سورة يوسف",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 2496
+    },
+    {
+     "videoId": "E1gZOBjv72s",
+     "title": "سورة يس",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 1050
+    },
+    {
+     "videoId": "4Rv2fpHcAmg",
+     "title": "سورة مريم",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 1340
+    },
+    {
+     "videoId": "biZ4wXkRAGY",
+     "title": "سورة البقرة كاملة",
+     "channel": " ود القاضي HD",
+     "channelUrl": "https://www.youtube.com/@Fouad_HD",
+     "duration": 8273
+    },
+    {
+     "videoId": "tcCtqmr0QwI",
+     "title": "سورة الكهف",
+     "channel": "الريح محمود",
+     "channelUrl": "https://www.youtube.com/@%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D9%85%D8%AD%D9%85%D9%88%D8%AF",
+     "duration": 2246
+    },
+    {
+     "videoId": "bpJSRUDcQI4",
+     "title": "سورة النساء",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 5241
+    },
+    {
+     "videoId": "CJm_zYPly0E",
+     "title": "سورة طه",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 1920
+    },
+    {
+     "videoId": "3LjeO-v7ExY",
+     "title": "سورة الواقعة",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 651
+    },
+    {
+     "videoId": "N0o7hB521oo",
+     "title": "سورة آل عمران",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 4669
+    },
+    {
+     "videoId": "8BFq7xZLH28",
+     "title": "سورة القصص",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 2011
+    },
+    {
+     "videoId": "M2xw5su6Dc0",
+     "title": "سورة الإسراء",
+     "channel": "سراج القرآن لجميع قراء السودان",
+     "channelUrl": "https://www.youtube.com/@%D8%B3%D8%B1%D8%A7%D8%AC%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%84%D8%AC%D9%85%D9%8A%D8%B9%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B37%D8%B2",
+     "duration": 2234
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "siddiq-hamdoun",
+   "name": "صديق أحمد حمدون",
+   "order": 7,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "ATbyNGzeYDc",
+     "title": "سورة البقرة",
+     "channel": "M. KH",
+     "channelUrl": "https://www.youtube.com/@MKH-vx6pg",
+     "duration": 3252
+    },
+    {
+     "videoId": "Qeq1LsdVH-A",
+     "title": "سورة يوسف",
+     "channel": "M. KH",
+     "channelUrl": "https://www.youtube.com/@MKH-vx6pg",
+     "duration": 3441
+    },
+    {
+     "videoId": "pZEh7yMmJ4g",
+     "title": "سورة الليل",
+     "channel": "alrawnaq sd",
+     "channelUrl": "https://www.youtube.com/@MrAlrawnaq",
+     "duration": 131
+    },
+    {
+     "videoId": "cNcQvlRRakA",
+     "title": "سورة يس",
+     "channel": "WãlèéD “TøŔŘeŞ”",
+     "channelUrl": "https://www.youtube.com/@mix-allwaleed5228",
+     "duration": 1551
+    },
+    {
+     "videoId": "MstBXjJzWc0",
+     "title": "جزء عمّ",
+     "channel": "M. KH",
+     "channelUrl": "https://www.youtube.com/@MKH-vx6pg",
+     "duration": 3730
+    },
+    {
+     "videoId": "R7y8u4UQNQw",
+     "title": "سورة الرحمن",
+     "channel": "سودانية sudania22",
+     "channelUrl": "https://www.youtube.com/@sudania22",
+     "duration": 136
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "waddah-khidir",
+   "name": "وضاح خضر حسين",
+   "order": 8,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "5tEqmTpm_dE",
+     "title": "سورة الروم",
+     "channel": "Yusuf Sharif",
+     "channelUrl": "https://www.youtube.com/@24yhussein",
+     "duration": 740
+    },
+    {
+     "videoId": "TM-PNZMCnoQ",
+     "title": "من سورة الزخرف",
+     "channel": "وضاح خضر",
+     "channelUrl": "https://www.youtube.com/@%D9%88%D8%B6%D8%A7%D8%AD%D8%AE%D8%B6%D8%B1-%D8%B13%D8%B8",
+     "duration": 79
+    },
+    {
+     "videoId": "MlgkkKGd738",
+     "title": "سورة الغاشية",
+     "channel": "الجنة هدفي",
+     "channelUrl": "https://www.youtube.com/@%D8%A7%D9%84%D8%AC%D9%86%D8%A9%D9%87%D8%AF%D9%81%D9%8A-%D8%BA6%D9%84",
+     "duration": 133
+    },
+    {
+     "videoId": "-4y2JGX6nM8",
+     "title": "سورة البلد • رواية الدوري",
+     "channel": "الجنة هدفي",
+     "channelUrl": "https://www.youtube.com/@%D8%A7%D9%84%D8%AC%D9%86%D8%A9%D9%87%D8%AF%D9%81%D9%8A-%D8%BA6%D9%84",
+     "duration": 107
+    },
+    {
+     "videoId": "BCsRPspzbSE",
+     "title": "سورة الزخرف • رواية ورش",
+     "channel": "أبو همام - Abuhammam",
+     "channelUrl": "https://www.youtube.com/@abuhammam",
+     "duration": 128
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "mohammad-osman-haj-ali",
+   "name": "محمد عثمان حاج علي",
+   "order": 9,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "pG3I8BPG9Sw",
+     "title": "سورة البقرة كاملة",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 7084
+    },
+    {
+     "videoId": "GxfEe6qvvbI",
+     "title": "سورة الجن",
+     "channel": "Sudanese recitations - تلاوات سودانية",
+     "channelUrl": "https://www.youtube.com/@RASHADelnur",
+     "duration": 319
+    },
+    {
+     "videoId": "P_kyAkLFVQk",
+     "title": "سورة يس",
+     "channel": "محمد عثمان حاج علي",
+     "channelUrl": "https://www.youtube.com/@%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D8%AD%D8%A7%D8%AC%D8%B9%D9%84%D9%8A",
+     "duration": 899
+    },
+    {
+     "videoId": "9Bu37iV5dGc",
+     "title": "سورة القيامة",
+     "channel": "محمد عثمان حاج علي",
+     "channelUrl": "https://www.youtube.com/@%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D8%AD%D8%A7%D8%AC%D8%B9%D9%84%D9%8A",
+     "duration": 411
+    },
+    {
+     "videoId": "laRLAb9FeLE",
+     "title": "آيات السكينة",
+     "channel": "محمد عثمان حاج علي",
+     "channelUrl": "https://www.youtube.com/@%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D8%AD%D8%A7%D8%AC%D8%B9%D9%84%D9%8A",
+     "duration": 1356
+    },
+    {
+     "videoId": "rKvquZ8zrCM",
+     "title": "سورة يوسف كاملة",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 2122
+    },
+    {
+     "videoId": "h6fJAipjnOY",
+     "title": "سورة الكهف كاملة",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 1921
+    },
+    {
+     "videoId": "uPorHobj7fY",
+     "title": "سورة مريم كاملة",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 1070
+    },
+    {
+     "videoId": "kvwJdPJNPDc",
+     "title": "سورة الفرقان",
+     "channel": "محمد عثمان حاج علي",
+     "channelUrl": "https://www.youtube.com/@%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D8%AD%D8%A7%D8%AC%D8%B9%D9%84%D9%8A",
+     "duration": 977
+    },
+    {
+     "videoId": "c-S9OVNqPjo",
+     "title": "من سورة الملك",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 3214
+    },
+    {
+     "videoId": "XY-ddHSrCKU",
+     "title": "سورة طه كاملة",
+     "channel": "أجمل تلاوات القرآن الكريم  HOLY QURAN RECITATION",
+     "channelUrl": "https://www.youtube.com/@quran996",
+     "duration": 1489
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "afif-taj",
+   "name": "عفيف محمد تاج",
+   "order": 10,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "XpidBsbEqe8",
+     "title": "سورة الكهف",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 1558
+    },
+    {
+     "videoId": "1cQk0nQBHEY",
+     "title": "سورة البقرة",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 6243
+    },
+    {
+     "videoId": "ndiR-KxzlYE",
+     "title": "سورة مريم",
+     "channel": "Unity Under Islam",
+     "channelUrl": "https://www.youtube.com/@unityunderislam",
+     "duration": 958
+    },
+    {
+     "videoId": "yucI2SZwWZ0",
+     "title": "سورة يوسف كاملة",
+     "channel": "Eman Ali",
+     "channelUrl": "https://www.youtube.com/@EmanAli-tj3ee",
+     "duration": 1789
+    },
+    {
+     "videoId": "vgPfb0evv-Q",
+     "title": "خواتيم سورة إبراهيم",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 313
+    },
+    {
+     "videoId": "yGFu756WNDM",
+     "title": "آيات من سورة الاعراف • تراويح",
+     "channel": "قناة القراء السودانيين",
+     "channelUrl": "https://www.youtube.com/@%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+     "duration": 1314
+    },
+    {
+     "videoId": "8yKe98hZ7II",
+     "title": "ما تيسر من سورة يوسف • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 460
+    },
+    {
+     "videoId": "pI-SewzzUU8",
+     "title": "ما تيسر من سورة لقمان",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 491
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "mohammad-nour-alislam",
+   "name": "محمد نور الإسلام",
+   "order": 11,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "QN2CV0fmpYU",
+     "title": "سورة البقرة كاملة",
+     "channel": "القارئ محمد نور الاسلام",
+     "channelUrl": "https://www.youtube.com/@MohdNourAlislam",
+     "duration": 9467
+    },
+    {
+     "videoId": "6wQZIaFmpsE",
+     "title": "سورة القيامة • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 325
+    },
+    {
+     "videoId": "7B61Y1YsF-U",
+     "title": "سورة الناس كاملة",
+     "channel": "القارئ محمد نور الاسلام",
+     "channelUrl": "https://www.youtube.com/@MohdNourAlislam",
+     "duration": 152
+    },
+    {
+     "videoId": "NVEjw9WcYlY",
+     "title": "من سورة الواقعة • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 349
+    },
+    {
+     "videoId": "M74jytWuRd0",
+     "title": "سورة إبراهيم",
+     "channel": "#نور_على_ نور",
+     "channelUrl": "https://www.youtube.com/@n3ooo7r",
+     "duration": 446
+    },
+    {
+     "videoId": "RBs98m2gOfM",
+     "title": "سورة طه • تهجد",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 1454
+    },
+    {
+     "videoId": "M0OoyNX1wlg",
+     "title": "من سورة الواقعة (2) • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 415
+    },
+    {
+     "videoId": "byid3uAFmvc",
+     "title": "سورة البقرة • رواية السوسي",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 9153
+    },
+    {
+     "videoId": "K1PS0PwHgbo",
+     "title": "سورة الشعراء • رواية رويس",
+     "channel": "سلوة الروح",
+     "channelUrl": "https://www.youtube.com/@salwatalruh",
+     "duration": 376
+    },
+    {
+     "videoId": "-UUGQSu-Uqc",
+     "title": "الجزء السادس",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 3458
+    },
+    {
+     "videoId": "W362fmEr2dE",
+     "title": "ما تيسر من سورة الحجرات • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 315
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "kamil-albeili",
+   "name": "كامل البيلي",
+   "order": 12,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "xv2uZ4937v8",
+     "title": "سورة الأنبياء",
+     "channel": "منوعات دينية مع وليد",
+     "channelUrl": "https://www.youtube.com/@user-waleed_altanahy",
+     "duration": 1694
+    },
+    {
+     "videoId": "kM45jsCAVBY",
+     "title": "سورة يس",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 908
+    },
+    {
+     "videoId": "o-TNH8nUFrs",
+     "title": "سورة البقرة",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 8272
+    },
+    {
+     "videoId": "Xt7fdWIJEL4",
+     "title": "سورة البينة • رواية ورش",
+     "channel": "تلاواتٌ بالقراءات القرآنية",
+     "channelUrl": "https://www.youtube.com/@qraatqurania",
+     "duration": 126
+    },
+    {
+     "videoId": "NXzTlzZ6sbw",
+     "title": "سورة يوسف",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 2397
+    },
+    {
+     "videoId": "ymKgckK8rj4",
+     "title": "سورة الفاتحة • رواية الدوري",
+     "channel": "Ahmed Kamil",
+     "channelUrl": "https://www.youtube.com/@AhmedKamil-t6c",
+     "duration": 60
+    },
+    {
+     "videoId": "3sKYIMjat_s",
+     "title": "سورة المائدة",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 3631
+    },
+    {
+     "videoId": "Y9Wb8r4TOPY",
+     "title": "سورة النساء",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 4598
+    },
+    {
+     "videoId": "fnhl9rUxAs8",
+     "title": "سورة الكهف",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 2038
+    },
+    {
+     "videoId": "IlKBWSNRtZY",
+     "title": "سورة آل عمران",
+     "channel": "أشرطة إسلامية",
+     "channelUrl": "https://www.youtube.com/@Islamictapes",
+     "duration": 4450
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "yousef-nouh-ahmad",
+   "name": "يوسف نوح أحمد",
+   "order": 13,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "available",
+   "nameEn": "Yousef Bin Noah Ahmad",
+   "source": {
+    "provider": "mp3quran.net",
+    "reciterId": 193,
+    "nameAtSource": "يوسف بن نوح أحمد",
+    "url": "https://www.mp3quran.net/api/v3/reciters?language=ar&reciter=193",
+    "matchNote": "مطابقة بالاسم: \"يوسف بن نوح أحمد\" في mp3quran.net",
+    "checked": "2026-11-13"
+   },
+   "moshaf": [
+    {
+     "id": 193,
+     "name": "حفص عن عاصم - مرتل",
+     "server": "https://cdn.mp3quran.net/audio/yousef-ahmad/r1/",
+     "surahs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+     "surahTotal": 114,
+     "rights": {
+      "source": "mp3quran.net",
+      "license": "mp3quran.net: \"All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the website.\"",
+      "licenseUrl": "https://www.mp3quran.net/privacy-en.html",
+      "rightsHolder": "mp3quran.net / القارئ",
+      "approval": "approved",
+      "download": true
+     }
+    }
+   ],
+   "videos": []
+  },
+  {
+   "id": "hammam-tajelsir",
+   "name": "همام تاج السر",
+   "order": 14,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "1twhnKqGn6A",
+     "title": "سورة الإنسان • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 437
+    },
+    {
+     "videoId": "pBkLbeY9AXs",
+     "title": "من سورة هود",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 377
+    },
+    {
+     "videoId": "Smvlv3p-tsI",
+     "title": "من سورة مريم • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 563
+    },
+    {
+     "videoId": "T3H19yD_UGQ",
+     "title": "من سورة المؤمنون • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 331
+    },
+    {
+     "videoId": "U_CF8Qoa0zQ",
+     "title": "من سورة النساء • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 446
+    },
+    {
+     "videoId": "4J6ruwyt70g",
+     "title": "من سورة يس • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 465
+    },
+    {
+     "videoId": "TngoxYoCuMg",
+     "title": "سورة الأنبياء كاملة",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 1870
+    },
+    {
+     "videoId": "T80FtSf-oIQ",
+     "title": "الجزء الثالث عشر",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 3890
+    },
+    {
+     "videoId": "mCCpWwtii_I",
+     "title": "الجزء الأول",
+     "channel": "Alekhwa",
+     "channelUrl": "https://www.youtube.com/@Alekhwamedia",
+     "duration": 3524
+    },
+    {
+     "videoId": "GT81rJAqO6g",
+     "title": "من سورة الأنبياء • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 291
+    },
+    {
+     "videoId": "lN8cHeU3uQg",
+     "title": "من سورة يوسف • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 538
+    },
+    {
+     "videoId": "BhoPN07B8p0",
+     "title": "من سورة طه • صلاة العشاء",
+     "channel": "المصباح : تلاوات سودانية - El Misbah",
+     "channelUrl": "https://www.youtube.com/@ElmisbahTilawat",
+     "duration": 544
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  },
+  {
+   "id": "ahmad-nour-alislam",
+   "name": "أحمد نور الإسلام",
+   "order": 15,
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "status": "video",
+   "nameEn": "",
+   "source": null,
+   "moshaf": [],
+   "note": "تلاوات مرئية عامة من YouTube، تُعرض بالمشغّل الرسمي المضمّن. الحقوق لأصحاب القنوات.",
+   "videos": [
+    {
+     "videoId": "jX0-V1E91Ig",
+     "title": "سورة إبراهيم",
+     "channel": "The Blessed Verses",
+     "channelUrl": "https://www.youtube.com/@TheBlessedVerses",
+     "duration": 245
+    },
+    {
+     "videoId": "JAbARQZZP-0",
+     "title": "ما تيسر من سورة مريم • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 362
+    },
+    {
+     "videoId": "eY4LInFCAvs",
+     "title": "سورة الجمعة • رواية ورش",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 273
+    },
+    {
+     "videoId": "FWwWw4cU4sE",
+     "title": "سورة طه",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 1305
+    },
+    {
+     "videoId": "XFNRXj1UANk",
+     "title": "سورة مريم",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 1051
+    },
+    {
+     "videoId": "jHupD9ykp64",
+     "title": "سورة إبراهيم كاملة",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 848
+    },
+    {
+     "videoId": "-gWBirygjzM",
+     "title": "سورة السجدة",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 416
+    },
+    {
+     "videoId": "9g_D8isDO_4",
+     "title": "سورة الفرقان كاملة",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 939
+    },
+    {
+     "videoId": "z7fIxW17N0o",
+     "title": "الجزء العاشر (مجوّد)",
+     "channel": "د. عبدالحي يوسف Dr. AbdulHay Yousif",
+     "channelUrl": "https://www.youtube.com/@AbdulhayYousif",
+     "duration": 2378
+    },
+    {
+     "videoId": "srETqFJ5xbo",
+     "title": "سورة السجدة • صلاة الفجر",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 536
+    },
+    {
+     "videoId": "B13rzYZim_A",
+     "title": "ما تيسر من سورة الإسراء • رواية ورش",
+     "channel": "Naqaa Studio",
+     "channelUrl": "https://www.youtube.com/@NaqaaStudio",
+     "duration": 342
+    }
+   ],
+   "videosChecked": "2026-11-13 (oEmbed)"
+  }
+ ],
+ "latest": [
+  {
+   "type": "sheikh",
+   "id": "mohamed-sayed-haj"
+  },
+  {
+   "type": "reciter",
+   "id": "noreen-siddiq"
+  },
+  {
+   "type": "reciter",
+   "id": "alzain-ahmad"
+  },
+  {
+   "type": "reciter",
+   "id": "alfateh-alzubair"
+  },
+  {
+   "type": "reciter",
+   "id": "mohammad-abdulkarim"
+  },
+  {
+   "type": "reciter",
+   "id": "yousef-nouh-ahmad"
+  }
+ ],
+ "sheikhs": [
+  {
+   "id": "mohamed-sayed-haj",
+   "name": "الشيخ محمد سيد حاج",
+   "title": "رحمه الله",
+   "kind": "sheikh",
+   "bio": "",
+   "bioSource": "",
+   "photo": null,
+   "channel": {
+    "name": "محمد سيد حاج",
+    "url": "https://www.youtube.com/@mohamed.s.haj0",
+    "note": "قناة مخصّصة لمحاضرات الشيخ (أكثر من 57 ألف مشترك). القناة الرسمية المرتبطة بموقع الشيخ mohamedsayed.com هي @msayedhaj وفيها 9 مقاطع فقط."
+   },
+   "items": [
+    {
+     "id": "paHAQ2GoJjM",
+     "type": "youtube",
+     "videoId": "paHAQ2GoJjM",
+     "title": "بيت العنكبوت: هشاشةُ الباطلِ وقوةُ التوحيد",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2635
+    },
+    {
+     "id": "iwEe58cC79s",
+     "type": "youtube",
+     "videoId": "iwEe58cC79s",
+     "title": "أين نجد السعادة",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2487
+    },
+    {
+     "id": "AodFkBOGR0M",
+     "type": "youtube",
+     "videoId": "AodFkBOGR0M",
+     "title": "أهوال القيامة: يومَ يفرُّ المرءُ من أخيه",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2235
+    },
+    {
+     "id": "3zzYA8Whgqk",
+     "type": "youtube",
+     "videoId": "3zzYA8Whgqk",
+     "title": "أهل الثناء والمجد",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 3774
+    },
+    {
+     "id": "n42BJfJ47Ok",
+     "type": "youtube",
+     "videoId": "n42BJfJ47Ok",
+     "title": "أنت والآخر",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 3974
+    },
+    {
+     "id": "vkUYqvwW-HA",
+     "type": "youtube",
+     "videoId": "vkUYqvwW-HA",
+     "title": "اليقين: حقيقةُ الإيمانِ وأمانُ القلوب",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 4038
+    },
+    {
+     "id": "T1pHlZE7bbk",
+     "type": "youtube",
+     "videoId": "T1pHlZE7bbk",
+     "title": "المسلم مع ربه: حقيقةُ العبوديةِ وأدبُ اللقاء",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2519
+    },
+    {
+     "id": "Ev4wcx7UI4w",
+     "type": "youtube",
+     "videoId": "Ev4wcx7UI4w",
+     "title": "المسلم مع أقاربه: حقُّ الرحمِ وواجبُ الصلة",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2365
+    },
+    {
+     "id": "uDLUAmdeSEc",
+     "type": "youtube",
+     "videoId": "uDLUAmdeSEc",
+     "title": "المرؤة: زينةُ الرجالِ وجوهرُ الأخلاق",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2220
+    },
+    {
+     "id": "paqaxLbtw2A",
+     "type": "youtube",
+     "videoId": "paqaxLbtw2A",
+     "title": "المحفزات لفعل الخيرات: وقودُ الهمةِ لِنيلِ القمة",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2472
+    },
+    {
+     "id": "IND7oLLbDdc",
+     "type": "youtube",
+     "videoId": "IND7oLLbDdc",
+     "title": "الفرج بعد الشدة: بَشائرُ الصابرينَ ومعيّةُ الله",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2465
+    },
+    {
+     "id": "IHa7cP4LIvY",
+     "type": "youtube",
+     "videoId": "IHa7cP4LIvY",
+     "title": "الغيبة: فاكهةُ المجالسِ المسمومة",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1339
+    },
+    {
+     "id": "odGQ-TwTcds",
+     "type": "youtube",
+     "videoId": "odGQ-TwTcds",
+     "title": "الغفلة: حجابُ القلوبِ وندامةُ الآخرة",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 3575
+    },
+    {
+     "id": "4MixSNPx8Y8",
+     "type": "youtube",
+     "videoId": "4MixSNPx8Y8",
+     "title": "الغضب والفرح: كيف تملكُ نفسكَ في اللحظاتِ الحرجة؟",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 3875
+    },
+    {
+     "id": "9zR4e4Zwb7w",
+     "type": "youtube",
+     "videoId": "9zR4e4Zwb7w",
+     "title": "ذم الذل: عزةُ المؤمنِ وكرامتُه",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2936
+    },
+    {
+     "id": "m_yvjIBBpf0",
+     "type": "youtube",
+     "videoId": "m_yvjIBBpf0",
+     "title": "الغرباء",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 4268
+    },
+    {
+     "id": "qXZqAsVHdF0",
+     "type": "youtube",
+     "videoId": "qXZqAsVHdF0",
+     "title": "العيش في الزمان الصعب: كيف نثبتُ وسطَ الفتن؟",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 5695
+    },
+    {
+     "id": "w50Mcr_nMMw",
+     "type": "youtube",
+     "videoId": "w50Mcr_nMMw",
+     "title": "العلمانية وخطرها: معركةُ العقيدةِ والهوية",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 4682
+    },
+    {
+     "id": "rXlOi-W-ZeU",
+     "type": "youtube",
+     "videoId": "rXlOi-W-ZeU",
+     "title": "الطريق إلى الهداية: كيف تستعيدُ صلتكَ بخالقِك؟",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 3566
+    },
+    {
+     "id": "AT4EKXNA0zg",
+     "type": "youtube",
+     "videoId": "AT4EKXNA0zg",
+     "title": "الطريق إلى السنة: نجاةُ العبدِ في الاتباع",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2227
+    },
+    {
+     "id": "KAkKtguQ90s",
+     "type": "youtube",
+     "videoId": "KAkKtguQ90s",
+     "title": "الطريق إلى الجنة: خريطةُ الوصولِ والنعيمُ المقيم",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 2887
+    },
+    {
+     "id": "GQlHTLpVDJM",
+     "type": "youtube",
+     "videoId": "GQlHTLpVDJM",
+     "title": "الضلال: تِيهُ النفوسِ وسبيلُ الهلاك",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 6166
+    },
+    {
+     "id": "Dr5AS3sGK7A",
+     "type": "youtube",
+     "videoId": "Dr5AS3sGK7A",
+     "title": "الصبر: ضياءُ المؤمنِ ومفتاحُ الفرج",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 4955
+    },
+    {
+     "id": "tbLjbL3Ol_w",
+     "type": "youtube",
+     "videoId": "tbLjbL3Ol_w",
+     "title": "الشخصية المسلمة: ملامحُ العزةِ وبناءُ الذات",
+     "topic": "خطب ومواعظ",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1918
+    },
+    {
+     "id": "SpN8reND2Cg",
+     "type": "youtube",
+     "videoId": "SpN8reND2Cg",
+     "title": "الزبير بن العوام: حواريُّ الرسولِ وفارسُ الإسلام",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1179
+    },
+    {
+     "id": "CILS8LtpttY",
+     "type": "youtube",
+     "videoId": "CILS8LtpttY",
+     "title": "عبد الرحمن بن عوف: تاجرُ الرحمنِ وسيدُ الجود",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1013
+    },
+    {
+     "id": "KyS_koAqM08",
+     "type": "youtube",
+     "videoId": "KyS_koAqM08",
+     "title": "سعد بن أبي وقاص: فارسُ الإسلام ومُستجابُ الدعاء",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1027
+    },
+    {
+     "id": "e0kmU6eVfSw",
+     "type": "youtube",
+     "videoId": "e0kmU6eVfSw",
+     "title": "سعيد بن زيد: مُستجابُ الدّعوةِ وأحدُ السابقين",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 729
+    },
+    {
+     "id": "O80FoLX15xM",
+     "type": "youtube",
+     "videoId": "O80FoLX15xM",
+     "title": "العباس بن عبد المطلب: ساقي الحرمين وعمُّ النبي",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1286
+    },
+    {
+     "id": "rI7BR0GCtiQ",
+     "type": "youtube",
+     "videoId": "rI7BR0GCtiQ",
+     "title": "عبد الله بن مسعود: تُرجمانُ القرآنِ وفقهُ الأمة",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1106
+    },
+    {
+     "id": "soxeSeBLRWE",
+     "type": "youtube",
+     "videoId": "soxeSeBLRWE",
+     "title": "جعفر بن أبي طالب: جعفرُ الطيار وشبيهُ المصطفى",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1718
+    },
+    {
+     "id": "pvtbM7rFL74",
+     "type": "youtube",
+     "videoId": "pvtbM7rFL74",
+     "title": "خديجة بنت خويلد: سيدةُ نساءِ العالمين",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1418
+    },
+    {
+     "id": "5EXA4sN36LM",
+     "type": "youtube",
+     "videoId": "5EXA4sN36LM",
+     "title": "فاطمة بنت محمد (ﷺ): بضعةُ المصطفى وسيدةُ النساء",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1172
+    },
+    {
+     "id": "40kirkFk04w",
+     "type": "youtube",
+     "videoId": "40kirkFk04w",
+     "title": "عائشة بنت أبي بكر (1): أحبُّ الناسِ إلى النبي",
+     "topic": "سلسلة القدوات",
+     "channel": "محمد سيد حاج",
+     "channelUrl": "https://www.youtube.com/@mohamed.s.haj0",
+     "duration": 1381
+    }
+   ]
+  }
+ ],
+ "madih": [],
+ "notice": "",
+ "refresh": {
+  "contentTtlHours": 6,
+  "mp3quranTtlHours": 24
+ },
+ "ads": {
+  "banner": true,
+  "native": true
+ },
+ "sectionsTitle": {
+  "sheikhs": "خطب ومحاضرات",
+  "madih": "المديح النبوي"
+ }
+}

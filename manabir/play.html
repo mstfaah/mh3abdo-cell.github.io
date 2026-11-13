@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>منابر</title>
+<meta name="description" content="استمع إلى تلاوات القرّاء السودانيين في تطبيق منابر المجاني.">
+<style>body{font-family:system-ui,Tahoma,sans-serif;background:#f6f3ec;color:#1b1c1a;text-align:center;padding:48px 20px;line-height:1.8}
+a.btn{display:inline-block;background:#0e5e4e;color:#fff;padding:12px 28px;border-radius:24px;text-decoration:none;font-weight:bold}</style>
+</head>
+<body>
+<h1>منابر</h1>
+<p>تلاوات القرّاء السودانيين في مكان واحد، مجاناً.</p>
+<p><a class="btn" id="go" href="https://play.google.com/store/apps/details?id=com.mrmstfa.manabir">حمّل التطبيق من Google Play</a></p>
+<p style="color:#545b58;font-size:.9em">إذا كان التطبيق مثبتاً على جهازك سيفتح الرابط السورة مباشرة.</p>
+<script>
+// Without the app installed: try the in-app scheme on Android, then fall back to Google Play.
+(function(){var q=location.search;var play="https://play.google.com/store/apps/details?id=com.mrmstfa.manabir";
+ if(/android/i.test(navigator.userAgent)&&q){location.href="intent://play"+q+"#Intent;scheme=manabir;package=com.mrmstfa.manabir;S.browser_fallback_url="+encodeURIComponent(play)+";end";}})();
+</script>
+<p style="margin-top:3em;color:#545b58;font-size:.85em">Designed By Mr.mstfa</p>
+</body>
+</html>
